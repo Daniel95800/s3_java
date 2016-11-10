@@ -1,0 +1,4 @@
+
+public interface ComportementManipuler {
+	public abstract void prendre();
+}
